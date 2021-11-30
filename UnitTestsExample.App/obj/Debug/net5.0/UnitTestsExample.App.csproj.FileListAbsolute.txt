@@ -1,0 +1,16 @@
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.exe
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.deps.json
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.runtimeconfig.json
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.runtimeconfig.dev.json
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.dll
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\ref\UnitTestsExample.App.dll
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.pdb
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.csprojAssemblyReference.cache
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.AssemblyInfoInputs.cache
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.AssemblyInfo.cs
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.csproj.CoreCompileInputs.cache
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.dll
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\ref\UnitTestsExample.App.dll
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.pdb
+C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.genruntimeconfig.cache
