@@ -1,5 +1,7 @@
 ﻿using System;
 
+// Тестирование
+
 namespace UnitTestsExample.App
 {
     class Program
