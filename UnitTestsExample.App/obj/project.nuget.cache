@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "DWWzQvRCwHv7dngcdyv2Go0smheTy82l1RczSKWlZKbsDmloL+P+Bj6zZKaHFVh+fPuaPPD3fOTN0Md3SJ/A8A==",
+  "dgSpecHash": "I0rn5oDXsAwdERBy0Hr7PaX4uOdbOsSH1xOByhs8EUeUJ6983lwdmH3FXoEi6YBU9cmcxgP3KJ9nN5I4RZdBjQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\Автоматизированное тестирование\\Юнит Тесты\\2\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\Админ\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
+  ],
   "logs": []
 }

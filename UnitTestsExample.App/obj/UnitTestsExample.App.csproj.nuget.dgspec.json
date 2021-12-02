@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj": {}
+    "D:\\Автоматизированное тестирование\\Юнит Тесты\\2\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj": {
+    "D:\\Автоматизированное тестирование\\Юнит Тесты\\2\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
+        "projectUniqueName": "D:\\Автоматизированное тестирование\\Юнит Тесты\\2\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
         "projectName": "UnitTestsExample.App",
-        "projectPath": "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
-        "packagesPath": "C:\\Users\\AlisaSkrynko\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\obj\\",
+        "projectPath": "D:\\Автоматизированное тестирование\\Юнит Тесты\\2\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
+        "packagesPath": "C:\\Users\\Админ\\.nuget\\packages\\",
+        "outputPath": "D:\\Автоматизированное тестирование\\Юнит Тесты\\2\\UnitTestsExample\\UnitTestsExample.App\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\AlisaSkrynko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Админ\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
@@ -47,12 +47,30 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x64",
+              "version": "[5.0.12, 5.0.12]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[5.0.0, 5.0.0]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Users\\AlisaSkrynko\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
