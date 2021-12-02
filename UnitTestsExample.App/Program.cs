@@ -1,6 +1,6 @@
 ﻿using System;
 
-// Тестирование
+// Тестирование 
 
 namespace UnitTestsExample.App
 {
