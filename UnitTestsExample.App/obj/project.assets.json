@@ -8,24 +8,31 @@
     "net5.0": []
   },
   "packageFolders": {
-    "C:\\Users\\AlisaSkrynko\\.nuget\\packages\\": {}
+    "C:\\Users\\user\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
+      "projectUniqueName": "D:\\Обучение MAXIMA\\ДЗ\\DZ_GIT\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
       "projectName": "UnitTestsExample.App",
-      "projectPath": "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
-      "packagesPath": "C:\\Users\\AlisaSkrynko\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\AlisaSkrynko\\RiderProjects\\UnitTestsExample\\UnitTestsExample.App\\obj\\",
+      "projectPath": "D:\\Обучение MAXIMA\\ДЗ\\DZ_GIT\\UnitTestsExample\\UnitTestsExample.App\\UnitTestsExample.App.csproj",
+      "packagesPath": "C:\\Users\\user\\.nuget\\packages\\",
+      "outputPath": "D:\\Обучение MAXIMA\\ДЗ\\DZ_GIT\\UnitTestsExample\\UnitTestsExample.App\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\AlisaSkrynko\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\user\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +65,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Users\\AlisaSkrynko\\.dotnet\\sdk\\5.0.103\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.403\\RuntimeIdentifierGraph.json"
       }
     }
   }

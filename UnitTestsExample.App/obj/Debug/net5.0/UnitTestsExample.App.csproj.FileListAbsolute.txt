@@ -14,3 +14,19 @@ C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\De
 C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\ref\UnitTestsExample.App.dll
 C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.pdb
 C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.genruntimeconfig.cache
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.exe
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.deps.json
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.runtimeconfig.json
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.runtimeconfig.dev.json
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.dll
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\ref\UnitTestsExample.App.dll
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.pdb
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.csproj.AssemblyReference.cache
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.AssemblyInfoInputs.cache
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.AssemblyInfo.cs
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.csproj.CoreCompileInputs.cache
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.dll
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\ref\UnitTestsExample.App.dll
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.pdb
+D:\Обучение MAXIMA\ДЗ\DZ_GIT\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.genruntimeconfig.cache
