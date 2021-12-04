@@ -14,3 +14,19 @@ C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\De
 C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\ref\UnitTestsExample.App.dll
 C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.pdb
 C:\Users\AlisaSkrynko\RiderProjects\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.genruntimeconfig.cache
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.exe
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.deps.json
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.runtimeconfig.json
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.runtimeconfig.dev.json
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.dll
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\ref\UnitTestsExample.App.dll
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\bin\Debug\net5.0\UnitTestsExample.App.pdb
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.csproj.AssemblyReference.cache
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.AssemblyInfoInputs.cache
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.AssemblyInfo.cs
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.csproj.CoreCompileInputs.cache
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.dll
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\ref\UnitTestsExample.App.dll
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.pdb
+D:\Автоматизированное тестирование\Юнит Тесты\2\UnitTestsExample\UnitTestsExample.App\obj\Debug\net5.0\UnitTestsExample.App.genruntimeconfig.cache
